@@ -11,3 +11,8 @@ COMPREHENSIVE MENTAL DISORDER ANALYSIS AND CLASSIFICATION:
  This section analyzes the age distribution of individuals diagnosed with variousmental disorders, providing insights into the age groups most affected by specific
  conditions. A histogram is used to visualize this distribution, helping to identifypotential age-related trends. Understanding these patterns is essential for targeting interventions effectively. By examining age demographics, we gain a clearer perspective on how mental health issues are distributed across different life stages.
  ![py-project--1](https://github.com/user-attachments/assets/a5eab5db-08d9-4424-94b9-a97c992e4c52)
+
+2. Average Incidence by Disorder
+ In this section, we calculate and display the average incidence of each disorder within thedataset. By visualizing the average incidence, we can identify which disorders are most prevalent. This analysis aids in prioritizing mental health resources by highlighting disordersthat occur more frequently. Additionally, this section provides a comparative overview of disorder types based on incidence rates.
+![py-project--2](https://github.com/user-attachments/assets/1f268773-23d8-4e93-b187-db67fbc33cf8)
+
